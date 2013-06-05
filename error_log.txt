@@ -1,0 +1,22 @@
+[10-Mar-2013 13:04:43] PHP Warning:  opendir(/path/to/files): failed to open dir: Bad file descriptor in C:\var\www\vhosts\leanhealthcarewest.com\utils\prep-production.php on line 8
+[10-Mar-2013 13:11:27] PHP Warning:  opendir(/path/to/files): failed to open dir: Bad file descriptor in C:\var\www\vhosts\leanhealthcarewest.com\utils\prep-production.php on line 8
+[10-Mar-2013 13:11:49] PHP Parse error:  syntax error, unexpected ':' in C:\var\www\vhosts\leanhealthcarewest.com\utils\prep-production.php on line 30
+[10-Mar-2013 13:16:34] PHP Parse error:  syntax error, unexpected T_IF in C:\var\www\vhosts\leanhealthcarewest.com\utils\prep-production.php on line 14
+[10-Mar-2013 13:31:22] PHP Warning:  fopen(jquery.validationEngine-en.js): failed to open stream: No such file or directory in C:\var\www\vhosts\leanhealthcarewest.com\utils\prep-production.php on line 25
+[10-Mar-2013 13:32:07] PHP Notice:  Undefined variable: myFile in C:\var\www\vhosts\leanhealthcarewest.com\utils\prep-production.php on line 27
+[10-Mar-2013 13:32:07] PHP Warning:  fread(): Length parameter must be greater than 0 in C:\var\www\vhosts\leanhealthcarewest.com\utils\prep-production.php on line 27
+[10-Mar-2013 13:32:07] PHP Notice:  Undefined variable: myFile in C:\var\www\vhosts\leanhealthcarewest.com\utils\prep-production.php on line 27
+[10-Mar-2013 13:32:07] PHP Warning:  fread(): Length parameter must be greater than 0 in C:\var\www\vhosts\leanhealthcarewest.com\utils\prep-production.php on line 27
+[10-Mar-2013 13:32:07] PHP Notice:  Undefined variable: myFile in C:\var\www\vhosts\leanhealthcarewest.com\utils\prep-production.php on line 27
+[10-Mar-2013 13:32:07] PHP Warning:  fread(): Length parameter must be greater than 0 in C:\var\www\vhosts\leanhealthcarewest.com\utils\prep-production.php on line 27
+[10-Mar-2013 13:59:07] PHP Parse error:  syntax error, unexpected T_STRING in C:\var\www\vhosts\leanhealthcarewest.com\utils\prep-production.php on line 41
+[10-Mar-2013 16:18:23] PHP Warning:  unlink(allthe.css): No such file or directory in C:\var\www\vhosts\leanhealthcarewest.com\utils\prep-production.php on line 72
+[10-Mar-2013 16:26:08] PHP Warning:  unlink(/var/www/vhosts/leanhealthcarewest.com/httpdocs/css/production.css): No such file or directory in C:\var\www\vhosts\leanhealthcarewest.com\utils\prep-production.php on line 7
+[10-Mar-2013 16:29:32] PHP Warning:  unlink(/var/www/vhosts/leanhealthcarewest.com/httpdocs/css/production.css): No such file or directory in C:\var\www\vhosts\leanhealthcarewest.com\utils\prep-production.php on line 7
+[10-Mar-2013 16:30:02] PHP Warning:  unlink(/var/www/vhosts/leanhealthcarewest.com/httpdocs/css/production.css): No such file or directory in C:\var\www\vhosts\leanhealthcarewest.com\utils\prep-production.php on line 7
+[27-May-2013 09:16:15] PHP Warning:  unlink(/var/www/vhosts/ironlasso.com/httpdocs/jQueryFacebookWall/js/production.js): No such file or directory in C:\var\www\vhosts\ironlasso.com\utils\prep-production-jQueryfacebookWall.php on line 6
+[27-May-2013 09:16:15] PHP Warning:  unlink(/var/www/vhosts/ironlasso.com/httpdocs/jQueryFacebookWall/css/production.css): No such file or directory in C:\var\www\vhosts\ironlasso.com\utils\prep-production-jQueryfacebookWall.php on line 7
+[27-May-2013 10:23:35] PHP Warning:  unlink(/var/www/vhosts/ironlasso.com/httpdocs/jQueryFacebookWall/js/production.js): No such file or directory in C:\var\www\vhosts\ironlasso.com\utils\prep-production-jQueryfacebookWall.php on line 6
+[27-May-2013 10:23:35] PHP Warning:  unlink(/var/www/vhosts/ironlasso.com/httpdocs/jQueryFacebookWall/css/production.css): No such file or directory in C:\var\www\vhosts\ironlasso.com\utils\prep-production-jQueryfacebookWall.php on line 7
+[01-Jun-2013 12:43:30] PHP Warning:  unlink(/var/www/vhosts/ironlasso.com/httpdocs/jQueryFacebookWall/js/production.js): No such file or directory in C:\var\www\vhosts\ironlasso.com\utils\prep-production-jQueryfacebookWall.php on line 6
+[01-Jun-2013 12:43:30] PHP Warning:  unlink(/var/www/vhosts/ironlasso.com/httpdocs/jQueryFacebookWall/css/production.css): No such file or directory in C:\var\www\vhosts\ironlasso.com\utils\prep-production-jQueryfacebookWall.php on line 7
