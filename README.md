@@ -14,11 +14,11 @@ Requires php is installed, and added to your path (at least on windows)
 
 1) open prep-produciton.php and update the following 
 
-3	$jspath = '/var/www/vhosts/yourdomain.com/httpdocs/yourjsfolder/js/';                //path to the folder that holds all the js
-4	$csspath = '/var/www/vhosts/yourdomain.com/httpdocs/yourcssfolder/css/';             //path to the folder that holds all the css
-5	
-6	$minJSFileName = 'production.min.js';                                                //name of minified js file
-7	$minCSSFileName = 'production.min.css';                                              //name of minified css file 
+    3	$jspath = '/var/www/vhosts/yourdomain.com/httpdocs/yourjsfolder/js/';                //path to the folder that holds all the js
+    4	$csspath = '/var/www/vhosts/yourdomain.com/httpdocs/yourcssfolder/css/';             //path to the folder that holds all the css
+    5	
+    6	$minJSFileName = 'production.min.js';                                                //name of minified js file
+    7	$minCSSFileName = 'production.min.css';                                              //name of minified css file 
 
 ## Code Example
 
